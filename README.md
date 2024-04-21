@@ -1,6 +1,6 @@
+![Candy Crush Soda Saga](https://static.wikia.nocookie.net/candy-crush-saga/images/4/48/Candy_Crush_Soda_Saga_HD_new.png/revision/latest/scale-to-width-down/1200?cb=20150301152342)
 ```
 # Telegram Candy Crash Bot
-![Candy Crush Soda Saga](https://static.wikia.nocookie.net/candy-crush-saga/images/4/48/Candy_Crush_Soda_Saga_HD_new.png/revision/latest/scale-to-width-down/1200?cb=20150301152342)
 ## Overview
 
 This Telegram bot is a simple game inspired by the popular Candy Crush Saga. It allows users to interact with a game board via Telegram messages to swap candies and earn points. The game is played on a 5x5 board filled with different candy emojis.
